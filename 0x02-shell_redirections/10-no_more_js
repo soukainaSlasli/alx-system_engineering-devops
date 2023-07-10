@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f .name "'.js" .delete
+python delete_js_files.py
