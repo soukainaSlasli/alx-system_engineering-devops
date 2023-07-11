@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="$PATH:<F2>"
+export PATH="$PATH:/action"
